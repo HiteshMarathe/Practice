@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-
+//adding the comment in program.
 class Test{
 	
 	private static void Addition()
